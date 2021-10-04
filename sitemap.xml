@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.housz.cn/2021/%E7%A7%91%E5%B9%BB%E4%B9%A6/</loc>
+    
+    <lastmod>2021-10-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.housz.cn/2021/%E9%9D%92%E5%B2%9B/</loc>
     
     <lastmod>2021-10-03</lastmod>
@@ -57,17 +64,10 @@
     
   </url>
   
-  <url>
-    <loc>https://blog.housz.cn/2021/%E7%A7%91%E5%B9%BB%E4%B9%A6/</loc>
-    
-    <lastmod>2021-05-15</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://blog.housz.cn/</loc>
-    <lastmod>2021-10-03</lastmod>
+    <lastmod>2021-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,14 +75,14 @@
   
   <url>
     <loc>https://blog.housz.cn/tags/%E7%85%A7%E7%89%87/</loc>
-    <lastmod>2021-10-03</lastmod>
+    <lastmod>2021-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.housz.cn/tags/%E4%B9%A6%E5%8D%95/</loc>
-    <lastmod>2021-10-03</lastmod>
+    <lastmod>2021-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
